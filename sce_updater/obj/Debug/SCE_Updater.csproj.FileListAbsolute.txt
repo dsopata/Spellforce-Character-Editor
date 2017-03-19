@@ -1,0 +1,5 @@
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SCE_Updater\obj\Debug\SCE_Updater.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SCE_Updater\bin\Debug\SCE_Updater.dll
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SCE_Updater\bin\Debug\SCE_Updater.pdb
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SCE_Updater\obj\Debug\SCE_Updater.dll
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SCE_Updater\obj\Debug\SCE_Updater.pdb

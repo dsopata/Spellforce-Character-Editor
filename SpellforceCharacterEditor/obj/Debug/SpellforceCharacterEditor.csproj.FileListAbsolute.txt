@@ -1,0 +1,20 @@
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SpellforceCharacterEditor.exe.config
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.Form1.resources
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.Properties.Resources.resources
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.csproj.GenerateResource.Cache
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SpellforceCharacterEditor.exe
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SpellforceCharacterEditor.pdb
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.exe
+c:\users\dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.pdb
+C:\Users\Dave\documents\visual studio 2015\Projects\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SpellforceCharacterEditor.exe.config
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.exe
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.pdb
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.csprojResolveAssemblyReference.cache
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.Form1.resources
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.Properties.Resources.resources
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\obj\Debug\SpellforceCharacterEditor.csproj.GenerateResource.Cache
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SpellforceCharacterEditor.exe
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SpellforceCharacterEditor.pdb
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SCE_Updater.dll
+C:\Users\Dave\Desktop\SpellforceCharacterEditor\SpellforceCharacterEditor\bin\Debug\SCE_Updater.pdb
